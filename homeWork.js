@@ -40,3 +40,6 @@ personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
+
+let new = 5;
+console.log(new);
